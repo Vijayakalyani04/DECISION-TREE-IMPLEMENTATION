@@ -57,15 +57,16 @@ Fraud Detection: Identifies suspicious transactions in finance.
 📦 Dependencies
 
 Python 3.x
+
 Scikit-Learn
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Joblib
 
-🔗 Resources
 
-Iris Dataset 
-
-Scikit-Learn Documentation
 
