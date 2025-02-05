@@ -40,23 +40,31 @@ Saved the visualization as decision_tree.png.
 Model Saving
 
 Saved the trained model as decision_tree_model.pkl using joblib.dump().
+
 📊 Results & Visualizations
+
 Model Accuracy: Displays test accuracy and a classification report.
 Confusion Matrix: Provides insights into prediction performance.
 Decision Tree Visualization: The decision tree is saved as visualizations/decision_tree.png.
+
 🌍 Applications of Decision Tree Models
+
 Medical Diagnosis: Used to classify diseases based on symptoms.
 Spam Detection: Helps classify emails as spam or not.
 Customer Segmentation: Used in marketing to group similar customers.
 Fraud Detection: Identifies suspicious transactions in finance.
+
 📦 Dependencies
+
 Python 3.x
 Scikit-Learn
 Pandas
 NumPy
 Matplotlib
 Joblib
+
 🔗 Resources
+
 Iris Dataset
 Scikit-Learn Documentation
 
